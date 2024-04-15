@@ -1,0 +1,18 @@
+
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+html{
+    height: 100%
+}
+
+.bar:hover{
+  fill:pink
+}
+
+
+#tooltip{
+    margin-top: 10px;
+    font-size: 16px;
+}
